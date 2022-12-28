@@ -1,0 +1,1 @@
+# nemeth_mirko_django_project
